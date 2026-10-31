@@ -1,0 +1,23 @@
+src/manifest.rs
+  s_57dade617a3ae8::t_b27357c628f80a 1-243
+src/tui.rs
+  s_57dade617a3ae8::t_bd2b76dc1cd74b 1-233
+src/version.rs
+  s_57dade617a3ae8::t_745f564473d37b 1-144
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "86727c19575ee00a95dd3a77e4e30d7e85b5e414",
+  "prompts": {},
+  "sessions": {
+    "s_57dade617a3ae8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "34aea2c6-d96c-447f-87c3-d24bd91a3785",
+        "model": "unknown"
+      },
+      "human_author": "unly <leon.graser@deliveryhero.com>"
+    }
+  }
+}
